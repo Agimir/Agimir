@@ -1,4 +1,3 @@
-*"Stop making quotes from me that I didn't say" - Abraham Lincon*
+No longer in development, please do not reach out for assistance.
 
-## CFX.RE Development | [Mesa Indigo](https://github.com/Mesa-Indigo)
-Currently working on supportive framework for ox_core. 
+Fork em, clone em, stick em in a stew, take these resources and do what you want.
